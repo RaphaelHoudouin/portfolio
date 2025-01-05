@@ -55,33 +55,14 @@ An interactive visualization tool providing insights into unicorn startups (comp
 - **Focus:** Startup ecosystem trends and funding insights
 ---
 
-### 8. [Credit Risk Prediction](https://github.com/raphaelhoudouin/credit-risk-prediction) 💳
+### 7. [Credit Risk Prediction](https://github.com/raphaelhoudouin/credit-risk-prediction) 💳
 A machine learning model for predicting and analyzing financial risks in banking, designed to classify loan approvals and assess credit risk.
 
 - **Technologies:** Python, Scikit-learn, Pandas
 - **Focus:** Financial risk prediction
 
 ---
-
-
-
-### 7. [Movie Recommendation System](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥
-Machine learning-based movie recommendation system for personalized suggestions, using the TMDB 5000 dataset.
-
-- **Technologies:** Python, Scikit-learn, Pandas
-- **Focus:** Recommendation systems and collaborative filtering
-
----
-
-### 8. [Credit Risk Prediction](https://github.com/raphaelhoudouin/credit-risk-prediction) 💳
-A machine learning model for predicting and analyzing financial risks in banking, designed to classify loan approvals and assess credit risk.
-
-- **Technologies:** Python, Scikit-learn, Pandas
-- **Focus:** Financial risk prediction
-
-
----
-### 2. [Minard Visualization Reproduction](https://github.com/raphaelhoudouin/minard-visualization-reproduction) 📊
+### 8. [Minard Visualization Reproduction](https://github.com/raphaelhoudouin/minard-visualization-reproduction) 📊
 Reproduction of Charles Minard’s famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats. 
 
 - **Technologies:** Python, Matplotlib, Tableau
@@ -89,8 +70,15 @@ Reproduction of Charles Minard’s famous chart of Napoleon’s 1812 Russian cam
 
 ---
 
+### 9. [Movie Recommendation System](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥
+Machine learning-based movie recommendation system for personalized suggestions, using the TMDB 5000 dataset.
 
-### 9. [France Delinquency Analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis) 🚓
+- **Technologies:** Python, Scikit-learn, Pandas
+- **Focus:** Recommendation systems and collaborative filtering
+
+---
+
+### 10. [France Delinquency Analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis) 🚓
 Statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels.
 
 - **Technologies:** Python, Pandas, Seaborn
@@ -98,19 +86,11 @@ Statistical analysis of crime data across France, exploring trends and patterns 
 
 ---
 
-### 10. [France Energy Mix](https://github.com/raphaelhoudouin/france-energy-mix) ⚡
+### 11. [France Energy Mix](https://github.com/raphaelhoudouin/france-energy-mix) ⚡
 Analysis and prediction of electricity production and consumption in France using regional data from 2013 to 2023.
 
 - **Technologies:** Python, Pandas, Geopandas
 - **Focus:** Energy analytics and time series forecasting
-
----
-
-### 11. [Python Cheatsheet](https://github.com/raphaelhoudouin/python-cheatsheet) 🐍
-A collection of essential Python code snippets, tips, and best practices for quick reference on data structures, libraries, and common tasks.
-
-- **Technologies:** Python
-- **Focus:** Programming best practices
 
 ---
 
