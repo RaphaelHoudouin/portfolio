@@ -32,7 +32,7 @@ This project presents a financial reporting and analysis solution built with Pow
 
 ---
 
-### 4. [Banking Churn Prediction](https://github.com/raphaelhoudouin/banking-churn-prediction) 💰
+### 4. [Banking Churn Prediction](https://github.com/raphaelhoudouin/banking-churn-prediction) 💵
 A Streamlit app that predicts customer churn using demographic and account data with preprocessing and a neural network model.
 
 - **Technologies:** Python, TensorFlow, Streamlit
