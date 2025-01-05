@@ -53,8 +53,17 @@ An interactive visualization tool providing insights into unicorn startups (comp
 
 - **Technologies:** Python, Tableau
 - **Focus:** Startup ecosystem trends and funding insights
+---
+
+### 8. [Credit Risk Prediction](https://github.com/raphaelhoudouin/credit-risk-prediction) 💳
+A machine learning model for predicting and analyzing financial risks in banking, designed to classify loan approvals and assess credit risk.
+
+- **Technologies:** Python, Scikit-learn, Pandas
+- **Focus:** Financial risk prediction
 
 ---
+
+
 
 ### 7. [Movie Recommendation System](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥
 Machine learning-based movie recommendation system for personalized suggestions, using the TMDB 5000 dataset.
@@ -70,7 +79,16 @@ A machine learning model for predicting and analyzing financial risks in banking
 - **Technologies:** Python, Scikit-learn, Pandas
 - **Focus:** Financial risk prediction
 
+
 ---
+### 2. [Minard Visualization Reproduction](https://github.com/raphaelhoudouin/minard-visualization-reproduction) 📊
+Reproduction of Charles Minard’s famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats. 
+
+- **Technologies:** Python, Matplotlib, Tableau
+- **Focus:** Static and interactive data visualization
+
+---
+
 
 ### 9. [France Delinquency Analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis) 🚓
 Statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels.
