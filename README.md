@@ -8,7 +8,7 @@ Hi, I am Jean-Raphaël Houdouin, a Data Analyst and Machine Learning enthusiast 
 
 ## **Projects**
 
-### 1. [Credit Risk Modeling](https://github.com/raphaelhoudouin/credit-risk-modeling) 💰
+### 1. [Credit Risk Modeling](https://github.com/raphaelhoudouin/credit-risk-modeling) 🏦
 Statistical analysis of loan data (2007-2014) to predict defaults, uncover trends, and develop a credit scorecard for assessing creditworthiness.
 
 - **Technologies:** Python, Scikit-learn
@@ -32,7 +32,7 @@ This project presents a financial reporting and analysis solution built with Pow
 
 ---
 
-### 4. [Banking Churn Prediction](https://github.com/raphaelhoudouin/banking-churn-prediction) 🏦
+### 4. [Banking Churn Prediction](https://github.com/raphaelhoudouin/banking-churn-prediction) 💰
 A Streamlit app that predicts customer churn using demographic and account data with preprocessing and a neural network model.
 
 - **Technologies:** Python, TensorFlow, Streamlit
