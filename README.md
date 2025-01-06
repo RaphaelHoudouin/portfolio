@@ -146,17 +146,8 @@ Here are my key professional certifications:
 - **Alteryx Designer Core**  
   *Demonstrated expertise in data preparation and transformation using Alteryx.*
 
-- **IBM: Data Fundamentals**  
-  *Core understanding of data structures, analysis, and visualization.*
-
 - **Dataiku Advanced Designer**  
   *Advanced knowledge in using Dataiku for data preparation, analysis, and machine learning.*
-
-- **Cybersecurity Essentials (Cisco)**  
-  *Understanding of basic cybersecurity principles and practices.*
-
-- **Databricks Fundamentals**  
-  *Introduction to using Databricks for data engineering and analysis.*
 
 - **Bloomberg Market Concepts**  
   *Insight into financial markets, economics, and investment strategies.*
