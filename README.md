@@ -157,7 +157,7 @@ Here are my key professional certifications:
 ## Let’s Connect 🤝
 Feel free to explore my repositories or reach out to me for collaborations, suggestions, or discussions. 
 
-- **GitHub:** [github.com/raphaelhoudouin](https://github.com/raphaelhoudouin)
+- **GitHub:** [RaphaelHoudouin](https://github.com/raphaelhoudouin)
 - **LinkedIn:** [linkedin.com/in/Jean-Raphael Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
 
 ---
