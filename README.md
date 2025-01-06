@@ -88,7 +88,7 @@ Comprehensive statistical analysis of crime data in France, identifying regional
 
 ## **Certifications** 🏅  
 
-- **Mines Paris – PSL: Data Analyst Certification**  
+- **Mines Paris – PSL:**  Data Analyst Certification
 - **Power BI (Microsoft): Advanced Dashboard Creation**  
 - **Tableau Desktop Specialist: Data Storytelling**  
 - **AWS Cloud Essentials: Cloud Computing Fundamentals**  
