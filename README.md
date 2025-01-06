@@ -78,7 +78,7 @@ Machine learning-based movie recommendation system for personalized suggestions,
 
 ---
 
-### 10. [France Delinquency Analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis) 🚓
+### 10. [France Delinquency Analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis) 👮
 Statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels.
 
 - **Technologies:** Python, Pandas, Seaborn
