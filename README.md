@@ -22,7 +22,7 @@ Recreation of Charles Minard’s iconic visualization of Napoleon’s 1812 Russi
 
 ---
 
-### 3. [**Financial Reporting Analysis**](https://github.com/raphaelhoudouin/financial-reporting-analysis) 💹  
+### 3. [**Financial Reporting Solution**](https://github.com/raphaelhoudouin/financial-reporting-solution) 💹  
 Development of a financial reporting solution using Power BI, with advanced DAX techniques for adaptable and insightful dashboards.  
 
 - **Technologies:** Power BI, DAX, Excel  
