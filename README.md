@@ -161,9 +161,6 @@ Here are my key professional certifications:
 - **Bloomberg Market Concepts**  
   *Insight into financial markets, economics, and investment strategies.*
 
-- **TOEIC® Listening and Reading**  
-  *Certification of English language proficiency.*
-
 ---
 
 ## Let’s Connect 🤝
