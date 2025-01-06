@@ -88,13 +88,13 @@ Comprehensive statistical analysis of crime data in France, identifying regional
 
 ## **Certifications** 🏅  
 
-- **Mines Paris – PSL:**  Data Analyst Certification
-- **Power BI (Microsoft): Advanced Dashboard Creation**  
-- **Tableau Desktop Specialist: Data Storytelling**  
-- **AWS Cloud Essentials: Cloud Computing Fundamentals**  
-- **Alteryx Designer Core: Data Transformation Mastery**  
-- **Dataiku Advanced Designer: Machine Learning Workflow Expertise**  
-- **Bloomberg Market Concepts: Financial Markets Analysis**  
+- **Mines Paris – PSL:** Data Analyst Certification
+- **Microsoft Power BI:** Advanced Dashboard Creation
+- **Tableau Desktop:** Data Storytelling
+- **AWS Cloud Essentials:** Cloud Computing Fundamentals
+- **Alteryx Designer Core:** Data Transformation Mastery
+- **Dataiku Advanced Designer:** Machine Learning Workflow Expertise
+- **Bloomberg Market Concepts:** Financial Markets Analysis  
 
 ---
 
