@@ -1,163 +1,108 @@
-# GitHub Portfolio
+# **GitHub Portfolio** 🌟
 
-## Welcome to My GitHub Portfolio 🌟
-
-Hi, I am Jean-Raphaël Houdouin, a Data Analyst and Machine Learning enthusiast passionate about creating data-driven solutions. Below is a showcase of my key projects and repositories, reflecting my experience in data analysis, machine learning, visualization, and programming. I also included my professional certifications at the end.
+Welcome! I’m Jean-Raphaël Houdouin, a Data Analyst and Machine Learning enthusiast passionate about transforming data into actionable insights. Below is a curated selection of my projects and key repositories, showcasing expertise in data analysis, machine learning, visualization, and programming. My professional certifications are also listed at the end.
 
 ---
 
-## **Projects**
+## **Highlighted Projects**
 
-### 1. [Credit Risk Modeling](https://github.com/raphaelhoudouin/credit-risk-modeling) 🏦
-Statistical analysis of loan data (2007-2014) to predict defaults, uncover trends, and develop a credit scorecard for assessing creditworthiness.
+### 1. [**Credit Risk Modeling**](https://github.com/raphaelhoudouin/credit-risk-modeling) 🏦  
+Statistical analysis of loan data (2007–2014) to predict defaults, identify trends, and build a credit scorecard for assessing creditworthiness.  
 
-- **Technologies:** Python, Scikit-learn
-- **Focus:** Credit risk management
-
----
-
-### 2. [Minard Visualization Reproduction](https://github.com/raphaelhoudouin/minard-visualization-reproduction) 📊
-Reproduction of Charles Minard’s famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats. 
-
-- **Technologies:** Python, Matplotlib, Tableau
-- **Focus:** Static and interactive data visualization
+- **Technologies:** Python, Scikit-learn  
+- **Key Focus:** Credit risk assessment and data-driven decision-making  
 
 ---
 
-### 3. [Financial Reporting Analysis](https://github.com/raphaelhoudouin/financial-reporting-analysis) 💹
-This project presents a financial reporting and analysis solution built with Power BI, using DAX and advanced techniques to deliver insightful, adaptable visualizations for various datasets.
+### 2. [**Minard Visualization Reproduction**](https://github.com/raphaelhoudouin/minard-visualization-reproduction) 📊  
+Recreation of Charles Minard’s iconic visualization of Napoleon’s 1812 Russian campaign using Python for static and Tableau for interactive formats.  
 
-- **Technologies:** Power BI, DAX, Excel
-- **Focus:** Financial analysis and dashboard design
-
----
-
-### 4. [Banking Churn Prediction](https://github.com/raphaelhoudouin/banking-churn-prediction) 💵
-A Streamlit app that predicts customer churn using demographic and account data with preprocessing and a neural network model.
-
-- **Technologies:** Python, TensorFlow, Streamlit
-- **Focus:** Deep learning, customer churn analysis
+- **Technologies:** Python (Matplotlib), Tableau  
+- **Key Focus:** Static and interactive data storytelling  
 
 ---
 
-### 5. [Stock Risk Model](https://github.com/raphaelhoudouin/stock-risk-model) 📈
-Model to analyze and predict the risk factors associated with stocks, providing insights into their volatility and investment risk.
+### 3. [**Financial Reporting Analysis**](https://github.com/raphaelhoudouin/financial-reporting-analysis) 💹  
+Development of a financial reporting solution using Power BI, with advanced DAX techniques for adaptable and insightful dashboards.  
 
-- **Technologies:** Python, Scikit-learn
-- **Focus:** Risk assessment and predictive modeling
-
----
-
-### 6. [Venture Capital Unicorns Analytics](https://github.com/raphaelhoudouin/vc_unicorns_analytics) 🦄
-An interactive visualization tool providing insights into unicorn startups (companies valued at over $1 billion) worldwide.
-
-- **Technologies:** Python, Tableau
-- **Focus:** Startup ecosystem trends and funding insights
----
-
-### 7. [Credit Risk Prediction](https://github.com/raphaelhoudouin/credit-risk-prediction) 💳
-A machine learning model for predicting and analyzing financial risks in banking, designed to classify loan approvals and assess credit risk.
-
-- **Technologies:** Python, Scikit-learn, Pandas
-- **Focus:** Financial risk prediction
-
----
-### 8. [Minard Visualization Reproduction](https://github.com/raphaelhoudouin/minard-visualization-reproduction) 📊
-Reproduction of Charles Minard’s famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats. 
-
-- **Technologies:** Python, Matplotlib, Tableau
-- **Focus:** Static and interactive data visualization
+- **Technologies:** Power BI, DAX, Excel  
+- **Key Focus:** Financial analytics and executive reporting  
 
 ---
 
-### 9. [Movie Recommendation System](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥
-Machine learning-based movie recommendation system for personalized suggestions, using the TMDB 5000 dataset.
+### 4. [**Banking Churn Prediction**](https://github.com/raphaelhoudouin/banking-churn-prediction) 💵  
+Streamlit-based app that leverages a neural network model to predict customer churn using demographic and account data.  
 
-- **Technologies:** Python, Scikit-learn, Pandas
-- **Focus:** Recommendation systems and collaborative filtering
-
----
-
-### 10. [France Delinquency Analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis) 👮
-Statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels.
-
-- **Technologies:** Python, Pandas, Seaborn
-- **Focus:** Social statistics and geographic analysis
+- **Technologies:** Python, TensorFlow, Streamlit  
+- **Key Focus:** Customer retention strategy and predictive modeling  
 
 ---
 
-### 11. [France Energy Mix](https://github.com/raphaelhoudouin/france-energy-mix) ⚡
-Analysis and prediction of electricity production and consumption in France using regional data from 2013 to 2023.
+### 5. [**Venture Capital Unicorns Analytics**](https://github.com/raphaelhoudouin/vc_unicorns_analytics) 🦄  
+Interactive visualization tool providing insights into unicorn startups (privately held companies valued at over $1 billion) across the globe.  
 
-- **Technologies:** Python, Pandas, Geopandas
-- **Focus:** Energy analytics and time series forecasting
-  
----
-
-## 🎓 Education & Certifications
-
-### Education  
-- **Audencia Business School**  
-  *Master's degree in Data Science*  
-  *(2017 – 2019)*  
-  Key Courses:  
-  - Strategic Management  
-  - Corporate Finance  
-  - Predictive Analytics  
-  - Big Data and AI for Marketing  
-
-- **Kozminski University**  
-  *Exchange Program in Big Data Science*  
-  *(2018 – 2018)*  
-  Key Courses:  
-  - Econometric Modelling  
-  - Financial Mathematics  
-  - Statistical Programs  
-  - Data Security  
-
-- **Coventry University**  
-  *Bachelor of Arts (B.A.) in Global Business*  
-  *(2016 – 2017)*  
-  Key Courses:  
-  - International Finance  
-  - Business Accounting  
-  - Data Skills for Business  
-  - International Marketing Strategy  
-
+- **Technologies:** Python, Tableau  
+- **Key Focus:** Startup trends and venture capital analysis  
 
 ---
 
-## **Certifications** 🎓
+### 6. [**France Energy Mix Analysis**](https://github.com/raphaelhoudouin/france-energy-mix) ⚡  
+Exploration of electricity production and consumption trends in France from 2013–2023 using regional data and time series forecasting.  
 
-Here are my key professional certifications:
+- **Technologies:** Python, Pandas, Geopandas  
+- **Key Focus:** Renewable energy analytics and forecasting  
+
+---
+
+### 7. [**Movie Recommendation System**](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥  
+A machine learning-powered movie recommender system that provides personalized suggestions using collaborative filtering techniques.  
+
+- **Technologies:** Python, Scikit-learn, Pandas  
+- **Key Focus:** Recommendation engines and user behavior analysis  
+
+---
+
+### 8. [**France Delinquency Analysis**](https://github.com/raphaelhoudouin/france-delinquency-analysis) 👮  
+Comprehensive statistical analysis of crime data in France, identifying regional trends and patterns for actionable insights.  
+
+- **Technologies:** Python, Pandas, Seaborn  
+- **Key Focus:** Geographic data analysis and social statistics  
+
+---
+
+## **Education** 🎓  
+
+- **Master’s Degree in Data Science**  
+  *Audencia Business School (2017–2019)*  
+  Key Focus: Predictive Analytics, Corporate Finance, Big Data for Marketing  
+
+- **Exchange Program in Big Data Science**  
+  *Kozminski University (2018)*  
+  Courses: Econometrics, Financial Mathematics, Data Security  
+
+- **Bachelor’s Degree in Global Business**  
+  *Coventry University (2016–2017)*  
+  Courses: International Finance, Data Skills for Business  
+
+---
+
+## **Certifications** 🏅  
 
 - **Mines Paris – PSL: Data Analyst Certification**  
-  *Comprehensive training in exploratory statistics, data visualization, machine learning (classification, regression, clustering).*
-
-- **Power BI (Microsoft)**  
-  *Skilled in creating interactive dashboards and reports.*
-
-- **Tableau Desktop**  
-  *Proficient in data visualization and storytelling with Tableau.*
-
-- **AWS Cloud Essentials**  
-  *Fundamental knowledge of cloud concepts and services offered by Amazon Web Services.*
-
-- **Alteryx Designer Core**  
-  *Demonstrated expertise in data preparation and transformation using Alteryx.*
-
-- **Dataiku Advanced Designer**  
-  *Advanced knowledge in using Dataiku for data preparation, analysis, and machine learning.*
-
-- **Bloomberg Market Concepts**  
-  *Insight into financial markets, economics, and investment strategies.*
+- **Power BI (Microsoft): Advanced Dashboard Creation**  
+- **Tableau Desktop Specialist: Data Storytelling**  
+- **AWS Cloud Essentials: Cloud Computing Fundamentals**  
+- **Alteryx Designer Core: Data Transformation Mastery**  
+- **Dataiku Advanced Designer: Machine Learning Workflow Expertise**  
+- **Bloomberg Market Concepts: Financial Markets Analysis**  
 
 ---
 
-## Let’s Connect 🤝
-Feel free to explore my repositories or reach out to me for collaborations, suggestions, or discussions. 
+## **Let’s Connect!** 🤝  
 
-- **GitHub:** [github.com/JeanraphaelHoudouin](https://github.com/raphaelhoudouin)
-- **LinkedIn:** [linkedin.com/in/JeanraphaelHoudouin](https://linkedin.com/in/jeanraphaelhoudouin)
+Feel free to explore my repositories or reach out for collaboration, feedback, or discussions:  
+
+- **GitHub:** [github.com/JeanraphaelHoudouin](https://github.com/raphaelhoudouin)  
+- **LinkedIn:** [linkedin.com/in/JeanraphaelHoudouin](https://linkedin.com/in/jeanraphaelhoudouin)  
 
 ---
