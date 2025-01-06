@@ -91,6 +91,39 @@ Analysis and prediction of electricity production and consumption in France usin
 
 - **Technologies:** Python, Pandas, Geopandas
 - **Focus:** Energy analytics and time series forecasting
+  
+---
+
+## 🎓 Education & Certifications
+
+### Education  
+- **Audencia Business School**  
+  *Master's degree in Data Science*  
+  *(2017 – 2019)*  
+  Key Courses:  
+  - Strategic Management  
+  - Corporate Finance  
+  - Predictive Analytics  
+  - Big Data and AI for Marketing  
+
+- **Kozminski University**  
+  *Exchange Program in Big Data Science*  
+  *(2018 – 2018)*  
+  Key Courses:  
+  - Econometric Modelling  
+  - Financial Mathematics  
+  - Statistical Programs  
+  - Data Security  
+
+- **Coventry University**  
+  *Bachelor of Arts (B.A.) in Global Business*  
+  *(2016 – 2017)*  
+  Key Courses:  
+  - International Finance  
+  - Business Accounting  
+  - Data Skills for Business  
+  - International Marketing Strategy  
+
 
 ---
 
@@ -98,20 +131,38 @@ Analysis and prediction of electricity production and consumption in France usin
 
 Here are my key professional certifications:
 
-- **Microsoft Certified: Data Analyst Associate**  
-  *Validated expertise in using Power BI to analyze data and build interactive dashboards.*
+- **Mines Paris – PSL: Data Analyst Certification**  
+  *Comprehensive training in exploratory statistics, data visualization, machine learning (classification, regression, clustering).*
 
-- **Google Data Analytics Professional Certificate**  
-  *Comprehensive training in data cleaning, visualization, and analysis with R and Tableau.*
+- **Power BI (Microsoft)**  
+  *Skilled in creating interactive dashboards and reports.*
 
-- **IBM Data Science Professional Certificate**  
-  *Hands-on training in Python, SQL, machine learning, and data visualization.*
+- **Tableau Desktop**  
+  *Proficient in data visualization and storytelling with Tableau.*
 
-- **Deep Learning Specialization – Coursera (Andrew Ng)**  
-  *Mastered concepts in deep neural networks, optimization algorithms, and building deep learning models.*
+- **AWS Cloud Essentials**  
+  *Fundamental knowledge of cloud concepts and services offered by Amazon Web Services.*
 
-- **AWS Certified Machine Learning Specialty**  
-  *Proficient in building, training, and deploying machine learning models on AWS.*
+- **Alteryx Designer Core**  
+  *Demonstrated expertise in data preparation and transformation using Alteryx.*
+
+- **IBM: Data Fundamentals**  
+  *Core understanding of data structures, analysis, and visualization.*
+
+- **Dataiku Advanced Designer**  
+  *Advanced knowledge in using Dataiku for data preparation, analysis, and machine learning.*
+
+- **Cybersecurity Essentials (Cisco)**  
+  *Understanding of basic cybersecurity principles and practices.*
+
+- **Databricks Fundamentals**  
+  *Introduction to using Databricks for data engineering and analysis.*
+
+- **Bloomberg Market Concepts**  
+  *Insight into financial markets, economics, and investment strategies.*
+
+- **TOEIC® Listening and Reading**  
+  *Certification of English language proficiency.*
 
 ---
 
