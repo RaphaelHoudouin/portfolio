@@ -158,6 +158,6 @@ Here are my key professional certifications:
 Feel free to explore my repositories or reach out to me for collaborations, suggestions, or discussions. 
 
 - **GitHub:** [github.com/raphaelhoudouin](https://github.com/raphaelhoudouin)
-- **LinkedIn:** [linkedin.com/in/raphaelhoudouin](https://linkedin.com/in/raphaelhoudouin)
+- **LinkedIn:** [linkedin.com/in/raphaelhoudouin](https://linkedin.com/in/jean-raphaelhoudouin)
 
 ---
