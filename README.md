@@ -54,7 +54,15 @@ Exploration of electricity production and consumption trends in France from 2013
 
 ---
 
-### 7. [**Movie Recommendation System**](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥  
+### 7. [**Call Center Dashboard Power BI**](https://github.com/raphaelhoudouin/callcenter_analytics_powerbi) 📈
+Analysis and visualization of call center performance, focusing on key metrics such as total revenue, revenue by site or employee, average call time, and SLA compliance.  
+
+- **Technologies:** Power BI  
+- **Key Focus:** Operational insights and performance optimization  
+
+---
+
+### 8. [**Movie Recommendation System**](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥  
 A machine learning-powered movie recommender system that provides personalized suggestions using collaborative filtering techniques.  
 
 - **Technologies:** Python, Scikit-learn, Pandas  
@@ -62,7 +70,7 @@ A machine learning-powered movie recommender system that provides personalized s
 
 ---
 
-### 8. [**France Delinquency Analysis**](https://github.com/raphaelhoudouin/france-delinquency-analysis) 👮  
+### 9. [**France Delinquency Analysis**](https://github.com/raphaelhoudouin/france-delinquency-analysis) 👮  
 Comprehensive statistical analysis of crime data in France, identifying regional trends and patterns for actionable insights.  
 
 - **Technologies:** Python, Pandas, Seaborn  
