@@ -62,7 +62,15 @@ Analysis and visualization of call center performance, focusing on key metrics s
 
 ---
 
-### 8. [**Movie Recommendation System**](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥  
+### 8. [**Delivery Trend Analysis**](https://github.com/raphaelhoudouin/delivery-trend-analysis) 📦  
+Interactive dashboard using Looker Studio to analyze delivery trends, package conditions, and warehouse performance.  
+
+- **Technologies:** Looker Studio, Google Sheets/BigQuery  
+- **Key Focus:** Delivery performance monitoring, package condition analysis, and warehouse optimization
+  
+---
+
+### 9. [**Movie Recommendation System**](https://github.com/raphaelhoudouin/movies-recommender-system) 🎥  
 A machine learning-powered movie recommender system that provides personalized suggestions using collaborative filtering techniques.  
 
 - **Technologies:** Python, Scikit-learn, Pandas  
@@ -70,7 +78,7 @@ A machine learning-powered movie recommender system that provides personalized s
 
 ---
 
-### 9. [**France Delinquency Analysis**](https://github.com/raphaelhoudouin/france-delinquency-analysis) 👮  
+### 10. [**France Delinquency Analysis**](https://github.com/raphaelhoudouin/france-delinquency-analysis) 👮  
 Comprehensive statistical analysis of crime data in France, identifying regional trends and patterns for actionable insights.  
 
 - **Technologies:** Python, Pandas, Seaborn  
